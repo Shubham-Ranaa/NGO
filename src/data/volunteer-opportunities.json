@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vol-001",
+    "slug": "field-surveyor-nandur",
+    "title": "Field surveyor — water audit day",
+    "summary": "Join the household water audit across the Nandur cluster and record pump-yield readings on the demo tablet.",
+    "commitment": "One day (Sat, 09:00–17:00)",
+    "location": "Nandur, Nashik",
+    "seats": 12,
+    "skills": ["Local language (Marathi)", "Basic smartphone use"],
+    "programSlug": "water-sanitation",
+    "open": true
+  },
+  {
+    "id": "vol-002",
+    "slug": "health-camp-usher",
+    "summary": "Guide patients through registration, vitals and the pharmacy counter at the monthly mobile health camp.",
+    "title": "Health camp usher",
+    "commitment": "Second Sunday of each month",
+    "location": "Pune city",
+    "seats": 8,
+    "skills": ["People skills", "Attention to detail"],
+    "programSlug": "community-health",
+    "open": true
+  },
+  {
+    "id": "vol-003",
+    "slug": "literacy-mentor",
+    "title": "Evening literacy mentor",
+    "summary": "Support adult learners in the Othathanwadi study circle, two evenings a week, following a prepared workbook.",
+    "commitment": "6 hours / week (10 weeks)",
+    "location": "Remote + Beed",
+    "seats": 5,
+    "skills": ["Teaching aptitude", "Fluent Hindi or Marathi"],
+    "programSlug": "education-livelihoods",
+    "open": true
+  },
+  {
+    "id": "vol-004",
+    "slug": "data-reconciliation",
+    "title": "Fleet & data reconciliation support",
+    "summary": "Cross-check distribution slips against warehouse dispatch records and flag mismatches for the operations desk.",
+    "commitment": "Flexible, 4 hours / week",
+    "location": "Remote",
+    "seats": 3,
+    "skills": ["Spreadsheets", "Accuracy"],
+    "programSlug": "operations",
+    "open": false
+  }
+]

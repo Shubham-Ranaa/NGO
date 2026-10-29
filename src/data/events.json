@@ -1,0 +1,122 @@
+[
+  {
+    "id": "evt-001",
+    "slug": "village-water-audit",
+    "title": "Village Water Audit Day",
+    "category": "Field drive",
+    "date": "2026-11-21T09:00:00+05:30",
+    "venue": "Nandur Cluster Community Hall",
+    "city": "Nashik, Maharashtra",
+    "capacity": 60,
+    "registered": 44,
+    "status": "upcoming",
+    "summary": "Walk every restored source in the cluster, record readings and publish the results the same evening.",
+    "description": "Volunteers join a village water committee member for a full day of flow measurements, water quality strips and photo records at each restored borewell. Results are collated on site and published to the project page before midnight.",
+    "highlights": [
+      "Half-day field training before you start",
+      "Every reading published the same evening",
+      "Lunch provided by the village committee"
+    ],
+    "projectSlug": "borewell-restoration-nandur"
+  },
+  {
+    "id": "evt-002",
+    "slug": "reading-mentor-induction",
+    "title": "Reading Mentor Induction",
+    "category": "Training",
+    "date": "2026-11-08T10:00:00+05:30",
+    "venue": "Balrampur Block Resource Centre",
+    "city": "Balrampur, Uttar Pradesh",
+    "capacity": 40,
+    "registered": 40,
+    "status": "upcoming",
+    "summary": "A one-day induction into the level-based reading rubric used by every learning centre.",
+    "description": "Facilitators and volunteers are trained on the shared assessment rubric, grouping children by reading level, and running a two-hour evening session. The day ends with a practice assessment marked against sample work.",
+    "highlights": [
+      "Certificate issued on completion",
+      "Includes the printed rubric pack",
+      "Placement in one of the 24 running centres"
+    ],
+    "projectSlug": "after-school-learning-centres"
+  },
+  {
+    "id": "evt-003",
+    "slug": "health-camp-volunteers",
+    "title": "Mobile Health Camp — Volunteer Call",
+    "category": "Field drive",
+    "date": "2026-12-05T08:30:00+05:30",
+    "venue": "Kalahandi PHC Compound",
+    "city": "Kalahandi, Odisha",
+    "capacity": 25,
+    "registered": 12,
+    "status": "upcoming",
+    "summary": "Help run registration, referral follow-up and the dispensing counter at the December camp.",
+    "description": "Volunteers staff the registration desk, keep the referral log, and accompany the counsellor for follow-up visits in the afternoon. Prior medical experience is welcome but not required for registration and log-keeping roles.",
+    "highlights": [
+      "Roles for non-medical volunteers",
+      "Travel reimbursed within the district",
+      "Short briefing at 08:30 before the camp opens"
+    ],
+    "projectSlug": "mobile-health-camps"
+  },
+  {
+    "id": "evt-004",
+    "slug": "watershed-planting-week",
+    "title": "Watershed Planting Week",
+    "category": "Field drive",
+    "date": "2026-12-14T07:00:00+05:30",
+    "venue": "Jalore Ridge Assembly Point",
+    "city": "Jalore, Rajasthan",
+    "capacity": 120,
+    "registered": 58,
+    "status": "upcoming",
+    "summary": "Five days of planting along freshly cut contour trenches on the ridge.",
+    "description": "A week-long planting drive on the treated ridge. Each day covers one section, with saplings issued against a signed register and survival counted at the end of the week.",
+    "highlights": [
+      "Morning and afternoon shifts available",
+      "Camping arrangements on site",
+      "Survival percentages published after six months"
+    ],
+    "projectSlug": "watershed-treatment-ridge"
+  },
+  {
+    "id": "evt-005",
+    "slug": "annual-transparency-forum",
+    "title": "Annual Transparency Forum",
+    "category": "Public meeting",
+    "date": "2026-10-10T15:00:00+05:30",
+    "venue": "Community Auditorium, Shivajinagar",
+    "city": "Pune, Maharashtra",
+    "capacity": 200,
+    "registered": 176,
+    "status": "completed",
+    "summary": "The yearly open session where budgets, audits and programme results are presented and questioned.",
+    "description": "Programme heads present year-on-year results against the published budgets, followed by an open floor. Minutes and the slide pack are attached to the annual report page.",
+    "highlights": [
+      "Open floor questions taken from the audience",
+      "Audit observations read out in full",
+      "Minutes published with the annual report"
+    ],
+    "projectSlug": null
+  },
+  {
+    "id": "evt-006",
+    "slug": "library-corner-handover",
+    "title": "Library Corner Handover",
+    "category": "Public meeting",
+    "date": "2026-02-18T11:00:00+05:30",
+    "venue": "Dhemaji District Library",
+    "city": "Dhemaji, Assam",
+    "capacity": 80,
+    "registered": 80,
+    "status": "completed",
+    "summary": "Handover of the sixtieth and final library corner, closing the project.",
+    "description": "The final handover ceremony marking completion of all sixty library corners, with student librarians demonstrating the lending register.",
+    "highlights": [
+      "Student librarians ran the register demonstration",
+      "Two-year borrowing data released",
+      "Photographs added to the gallery"
+    ],
+    "projectSlug": "school-library-corners"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "prog-water",
+    "slug": "water-sanitation",
+    "name": "Water & Sanitation",
+    "tagline": "Reliable drinking water and safe sanitation for every settlement.",
+    "description": "We work with village water committees to map, restore and maintain local sources — borewells, step wells and rainwater harvesting — and pair the hardware with hygiene training so systems keep working long after handover.",
+    "icon": "droplets",
+    "featured": true
+  },
+  {
+    "id": "prog-health",
+    "slug": "community-health",
+    "name": "Community Health",
+    "tagline": "Frontline care delivered by trained community volunteers.",
+    "description": "Health camps, maternal nutrition support and a cadre of trained community health workers keep routine care within walking distance for settlements that have no clinic of their own.",
+    "icon": "stethoscope",
+    "featured": true
+  },
+  {
+    "id": "prog-livelihoods",
+    "slug": "sustainable-livelihoods",
+    "name": "Sustainable Livelihoods",
+    "tagline": "Income that does not borrow against the future.",
+    "description": "Farmer producer groups, kitchen-garden collectives and skill training give households a second income line while keeping soil, water and local markets in balance.",
+    "icon": "wheat",
+    "featured": true
+  },
+  {
+    "id": "prog-education",
+    "slug": "education-access",
+    "name": "Education Access",
+    "tagline": "Keeping children in school and learning well.",
+    "description": "Remedial learning centres, scholarships and library corners work with government schools to close the gap between enrolment and actual learning outcomes.",
+    "icon": "graduation",
+    "featured": true
+  },
+  {
+    "id": "prog-housing",
+    "slug": "housing-shelter",
+    "name": "Housing & Shelter",
+    "tagline": "Safe, weatherproof homes built with the community.",
+    "description": "Incremental, owner-driven housing upgrades with technical support, shared labour and a transparent materials ledger in every settlement.",
+    "icon": "home",
+    "featured": false
+  },
+  {
+    "id": "prog-climate",
+    "slug": "climate-resilience",
+    "name": "Climate Resilience",
+    "tagline": "Preparing communities for a less predictable climate.",
+    "description": "Watershed treatment, cyclone preparedness drills and early-warning networks reduce the damage that extreme weather does to households already living close to the line.",
+    "icon": "globe",
+    "featured": false
+  }
+]

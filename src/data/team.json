@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tm-001",
+    "name": "Meera Raghunathan",
+    "role": "Executive Director",
+    "bio": "Twenty-two years in rural water programmes; previously led a state-level watershed mission.",
+    "initials": "MR"
+  },
+  {
+    "id": "tm-002",
+    "name": "Dr. Anjali Prabhu",
+    "role": "Head of Programmes, Health",
+    "bio": "Public health physician who set up the community health worker model used across the health portfolio.",
+    "initials": "AP"
+  },
+  {
+    "id": "tm-003",
+    "name": "Imran Shaikh",
+    "role": "Head of Field Operations",
+    "bio": "Civil engineer by training; runs field logistics, quality audits and the contractor rate contracts.",
+    "initials": "IS"
+  },
+  {
+    "id": "tm-004",
+    "name": "Sunita Bhagat",
+    "role": "Head of Education",
+    "bio": "Former government school teacher; designed the level-based reading rubric used at every centre.",
+    "initials": "SB"
+  },
+  {
+    "id": "tm-005",
+    "name": "Ravi Kumaresan",
+    "role": "Head of Livelihoods",
+    "bio": "Works on producer groups and market linkages; keeps the collective price lists honest.",
+    "initials": "RK"
+  },
+  {
+    "id": "tm-006",
+    "name": "Farida Contractor",
+    "role": "Finance & Compliance Lead",
+    "bio": "Chartered accountant responsible for the ledger reconciliations and the external audit process.",
+    "initials": "FC"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ptr-001",
+    "name": "Vaidya & Sons Trust",
+    "category": "Institutional donor",
+    "since": 2017,
+    "contribution": "Core funding for the mobile health programme since 2017."
+  },
+  {
+    "id": "ptr-002",
+    "name": "Meridian Software",
+    "category": "Corporate partner",
+    "since": 2021,
+    "contribution": "Employee giving programme and pro-bono monitoring dashboards."
+  },
+  {
+    "id": "ptr-003",
+    "name": "State Rural Water Mission",
+    "category": "Government",
+    "since": 2019,
+    "contribution": "Technical co-funding and shared water quality testing laboratories."
+  },
+  {
+    "id": "ptr-004",
+    "name": "Pune Community Foundation",
+    "category": "Grant maker",
+    "since": 2020,
+    "contribution": "Multi-year grants for the after-school learning centres."
+  },
+  {
+    "id": "ptr-005",
+    "name": "Sarpanch Forum, Jalore",
+    "category": "Community network",
+    "since": 2022,
+    "contribution": "Land, labour and governance support for watershed treatment."
+  },
+  {
+    "id": "ptr-006",
+    "name": "Krishna Cooperative Bank",
+    "category": "Financial partner",
+    "since": 2023,
+    "contribution": "Banking access and fee-collection support for village water committees."
+  }
+]

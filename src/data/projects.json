@@ -1,0 +1,361 @@
+[
+  {
+    "id": "prj-001",
+    "slug": "borewell-restoration-nandur",
+    "title": "Borewell Restoration — Nandur Cluster",
+    "programSlug": "water-sanitation",
+    "category": "Rural infrastructure",
+    "summary": "Restoring 22 failed borewells and handing maintenance to elected village water committees.",
+    "description": "Fourteen settlements in the Nandur cluster lost their drinking water source over five years as water tables fell and maintenance funds were never set aside. This project rehabilitates each failed borewell, installs solar pumping where load calculations justify it, and registers a village water committee with a written maintenance budget before any equipment is handed over. A six-month monitoring window then tracks yield, water quality and fee collection.",
+    "location": "Nandur, Nashik",
+    "status": "active",
+    "progress": 64,
+    "startDate": "2026-04-01",
+    "endDate": "2027-03-31",
+    "budgetInr": 4800000,
+    "raisedInr": 3150000,
+    "beneficiaries": 8400,
+    "objectives": [
+      "Restore 22 failed borewells to working order",
+      "Form and register a water committee per settlement",
+      "Install flow meters and publish monthly usage data",
+      "Train 66 committee members in basic maintenance"
+    ],
+    "outcomes": [
+      "14 of 22 borewells restored and handed over",
+      "11 water committees constituted with bank accounts",
+      "Average collection time for water fell from 4 hours to 40 minutes"
+    ],
+    "manager": "Meera Raghunathan",
+    "featured": true,
+    "campaignSlugs": ["campaign-water-for-all"],
+    "volunteerRoles": ["Field surveyor", "Monitoring assistant"]
+  },
+  {
+    "id": "prj-002",
+    "slug": "rainwater-harvesting-schools",
+    "title": "Rainwater Harvesting in 40 Schools",
+    "programSlug": "water-sanitation",
+    "category": "Rural infrastructure",
+    "summary": "Recharge pits and storage tanks that carry 40 government schools through the dry months.",
+    "description": "Each of the 40 schools receives a recharge pit, a first-flush diverter and a storage tank sized to the roof area. Students are taught to read the level gauge and record it weekly, so the infrastructure doubles as a practical science lesson.",
+    "location": "Beed, Marathwada",
+    "status": "active",
+    "progress": 78,
+    "startDate": "2025-07-15",
+    "endDate": "2026-12-31",
+    "budgetInr": 3200000,
+    "raisedInr": 2560000,
+    "beneficiaries": 12600,
+    "objectives": [
+      "Build recharge and storage at 40 schools",
+      "Introduce weekly student water monitoring",
+      "Publish per-school storage data"
+    ],
+    "outcomes": [
+      "31 schools commissioned",
+      "Dry-month drinking water shortfall eliminated at 24 schools"
+    ],
+    "manager": "Imran Shaikh",
+    "featured": true,
+    "campaignSlugs": ["campaign-water-for-all"],
+    "volunteerRoles": ["Technical volunteer", "Teacher trainer"]
+  },
+  {
+    "id": "prj-003",
+    "slug": "mothers-nutrition-circles",
+    "title": "Mother's Nutrition Circles",
+    "programSlug": "community-health",
+    "category": "Health & nutrition",
+    "summary": "Weekly circles for expectant and new mothers, run by trained community health workers.",
+    "description": "A twelve-month cycle of weekly meetings covering antenatal care, anaemia screening, breastfeeding and infant feeding. Each circle is led by a community health worker from the same settlement, with a shared growth chart that families keep.",
+    "location": "Palakkad, Kerala",
+    "status": "active",
+    "progress": 52,
+    "startDate": "2026-01-10",
+    "endDate": "2027-01-09",
+    "budgetInr": 2750000,
+    "raisedInr": 1480000,
+    "beneficiaries": 3200,
+    "objectives": [
+      "Establish 48 circles across 18 settlements",
+      "Screen every participant for anaemia",
+      "Refer and follow up high-risk pregnancies within 48 hours"
+    ],
+    "outcomes": [
+      "31 circles running with 92% weekly attendance",
+      "Antenatal visit coverage up from 54% to 81%"
+    ],
+    "manager": "Dr. Anjali Prabhu",
+    "featured": true,
+    "campaignSlugs": ["campaign-healthy-mothers"],
+    "volunteerRoles": ["Community health worker", "Nutrition educator"]
+  },
+  {
+    "id": "prj-004",
+    "slug": "mobile-health-camps",
+    "title": "Mobile Health Camps",
+    "programSlug": "community-health",
+    "category": "Health & nutrition",
+    "summary": "A fortnightly clinic-on-wheels covering settlements more than 15 km from a PHC.",
+    "description": "A van equipped for screening, first-line treatment and referrals visits eight settlements on a fixed fortnightly rotation, staffed by a doctor, a nurse and a counsellor. Registration is done on paper and entered the same day, so follow-up lists are never lost.",
+    "location": "Kalahandi, Odisha",
+    "status": "active",
+    "progress": 88,
+    "startDate": "2025-05-01",
+    "endDate": "2026-12-31",
+    "budgetInr": 5400000,
+    "raisedInr": 4720000,
+    "beneficiaries": 21500,
+    "objectives": [
+      "Run 120 camps across 8 settlements",
+      "Screen for hypertension and diabetes at every camp",
+      "Close the referral loop within 14 days"
+    ],
+    "outcomes": [
+      "106 camps held",
+      "1,840 referrals completed against 2,010 issued"
+    ],
+    "manager": "Dr. Anjali Prabhu",
+    "featured": true,
+    "campaignSlugs": ["campaign-healthy-mothers"],
+    "volunteerRoles": ["Camp registrar", "Referral tracker"]
+  },
+  {
+    "id": "prj-005",
+    "slug": "kitchen-garden-collectives",
+    "title": "Kitchen Garden Collectives",
+    "programSlug": "sustainable-livelihoods",
+    "category": "Livelihoods",
+    "summary": "600 household gardens that supply both the plate and a weekly market stall.",
+    "description": "Households receive seed kits, drip lines and three sessions on seasonal planting. Surplus is pooled into a collective stall, with a written price list agreed at the start of each week.",
+    "location": "Kanchipuram, Tamil Nadu",
+    "status": "active",
+    "progress": 71,
+    "startDate": "2025-09-01",
+    "endDate": "2026-12-31",
+    "budgetInr": 1900000,
+    "raisedInr": 1240000,
+    "beneficiaries": 2700,
+    "objectives": [
+      "Establish 600 household gardens",
+      "Form 12 selling collectives",
+      "Cut household spend on vegetables by a quarter"
+    ],
+    "outcomes": [
+      "426 gardens established",
+      "9 collectives selling weekly with published price lists"
+    ],
+    "manager": "Ravi Kumaresan",
+    "featured": false,
+    "campaignSlugs": [],
+    "volunteerRoles": ["Agri trainer", "Market coordinator"]
+  },
+  {
+    "id": "prj-006",
+    "slug": "farmer-producer-group-scale",
+    "title": "Farmer Producer Group Scale-up",
+    "programSlug": "sustainable-livelihoods",
+    "category": "Livelihoods",
+    "summary": "Taking a 140-member FPO from one crop to four with transparent procurement records.",
+    "description": "The producer group is supported to add processing, a shared cold store and four crops under a single set of books. Every purchase and payout is posted on a board at the collection centre as well as in the group's ledger.",
+    "location": "Latur, Maharashtra",
+    "status": "planning",
+    "progress": 15,
+    "startDate": "2026-11-01",
+    "endDate": "2028-03-31",
+    "budgetInr": 7600000,
+    "raisedInr": 900000,
+    "beneficiaries": 4900,
+    "objectives": [
+      "Onboard 500 additional farmers",
+      "Commission a shared cold store",
+      "Publish weekly procurement prices"
+    ],
+    "outcomes": [],
+    "manager": "Ravi Kumaresan",
+    "featured": false,
+    "campaignSlugs": [],
+    "volunteerRoles": ["Accounts support", "Field organiser"]
+  },
+  {
+    "id": "prj-007",
+    "slug": "after-school-learning-centres",
+    "title": "After-School Learning Centres",
+    "programSlug": "education-access",
+    "category": "Education",
+    "summary": "30 remedial centres that take children from reading below grade level to at grade.",
+    "description": "Two hours each evening in a community room, grouped by reading level rather than age, using a shared assessment rubric. Facilitators are drawn from the settlement and paid from the project's own budget.",
+    "location": "Balrampur, Uttar Pradesh",
+    "status": "active",
+    "progress": 59,
+    "startDate": "2025-08-01",
+    "endDate": "2027-04-30",
+    "budgetInr": 4100000,
+    "raisedInr": 2380000,
+    "beneficiaries": 1500,
+    "objectives": [
+      "Open 30 centres",
+      "Assess every child at entry and every quarter",
+      "Bring 70% of participants to grade-level reading"
+    ],
+    "outcomes": [
+      "24 centres open with 1,180 children enrolled",
+      "61% of participants reached grade-level reading in two quarters"
+    ],
+    "manager": "Sunita Bhagat",
+    "featured": true,
+    "campaignSlugs": ["campaign-back-to-learning"],
+    "volunteerRoles": ["Reading mentor", "Homework helper"]
+  },
+  {
+    "id": "prj-008",
+    "slug": "school-library-corners",
+    "title": "Library Corners in 60 Schools",
+    "programSlug": "education-access",
+    "category": "Education",
+    "summary": "Curated shelves, a lending register and a student librarian in every partner school.",
+    "description": "Each school gets roughly 300 titles chosen with teachers, a lending register kept by trained student librarians, and a quarterly review of which books are actually borrowed.",
+    "location": "Dhemaji, Assam",
+    "status": "completed",
+    "progress": 100,
+    "startDate": "2024-06-01",
+    "endDate": "2026-02-28",
+    "budgetInr": 2400000,
+    "raisedInr": 2400000,
+    "beneficiaries": 18000,
+    "objectives": [
+      "Set up 60 library corners",
+      "Train 180 student librarians",
+      "Track borrowings for two full academic years"
+    ],
+    "outcomes": [
+      "All 60 corners established",
+      "Average borrowings rose from 4 to 19 per child per term"
+    ],
+    "manager": "Sunita Bhagat",
+    "featured": false,
+    "campaignSlugs": ["campaign-back-to-learning"],
+    "volunteerRoles": ["Library volunteer"]
+  },
+  {
+    "id": "prj-009",
+    "slug": "incremental-housing-upgrade",
+    "title": "Incremental Housing Upgrades",
+    "programSlug": "housing-shelter",
+    "category": "Housing",
+    "summary": "Owner-driven roof, wall and sanitation upgrades in 250 homes.",
+    "description": "Households choose which of three upgrade packages to take, buy materials through a shared rate contract, and record every receipt on a wall-mounted ledger that the project audits monthly.",
+    "location": "Devbhoomi Dwarka, Gujarat",
+    "status": "on-hold",
+    "progress": 34,
+    "startDate": "2025-11-01",
+    "endDate": "2027-06-30",
+    "budgetInr": 6300000,
+    "raisedInr": 1600000,
+    "beneficiaries": 1750,
+    "objectives": [
+      "Complete 250 upgrades",
+      "Keep material costs within the published rate contract",
+      "Audit every ledger quarterly"
+    ],
+    "outcomes": [
+      "85 upgrades completed before the work paused",
+      "Material costs held 11% under the rate contract"
+    ],
+    "manager": "Farida Contractor",
+    "featured": false,
+    "campaignSlugs": [],
+    "volunteerRoles": ["Quantity surveyor"]
+  },
+  {
+    "id": "prj-010",
+    "slug": "watershed-treatment-ridge",
+    "title": "Ridge-to-Valley Watershed Treatment",
+    "programSlug": "climate-resilience",
+    "category": "Climate",
+    "summary": "Trenches, bunds and check dams across 900 hectares of degraded ridge land.",
+    "description": "Continuous contour trenching on the ridge, farm ponds below it and three check dams in the valley, all executed by the farming households who will use them, with satellite-based cover reporting published each season.",
+    "location": "Jalore, Rajasthan",
+    "status": "active",
+    "progress": 47,
+    "startDate": "2025-10-01",
+    "endDate": "2027-09-30",
+    "budgetInr": 8900000,
+    "raisedInr": 5200000,
+    "beneficiaries": 11200,
+    "objectives": [
+      "Treat 900 hectares",
+      "Build 3 check dams and 240 farm ponds",
+      "Publish seasonal vegetation cover"
+    ],
+    "outcomes": [
+      "412 hectares treated",
+      "Two check dams commissioned and holding through the monsoon"
+    ],
+    "manager": "Imran Shaikh",
+    "featured": true,
+    "campaignSlugs": [],
+    "volunteerRoles": ["GIS volunteer", "Field engineer"]
+  },
+  {
+    "id": "prj-011",
+    "slug": "cyclone-preparedness-network",
+    "title": "Cyclone Preparedness Network",
+    "programSlug": "climate-resilience",
+    "category": "Climate",
+    "summary": "Volunteer wardens, loudspeakers and rehearsed evacuation routes in 26 coastal wards.",
+    "description": "Each ward gets a trained volunteer warden, a tested loudspeaker chain and a marked evacuation route rehearsed twice a year. Warning messages are issued in the local language and confirmed by call-back before an evacuation is called.",
+    "location": "Bhadrak, Odisha",
+    "status": "active",
+    "progress": 82,
+    "startDate": "2025-03-01",
+    "endDate": "2026-12-31",
+    "budgetInr": 2200000,
+    "raisedInr": 1950000,
+    "beneficiaries": 34000,
+    "objectives": [
+      "Train 78 wardens across 26 wards",
+      "Rehearse evacuation twice a year",
+      "Reach 90% call-back confirmation on warnings"
+    ],
+    "outcomes": [
+      "78 wardens trained",
+      "Call-back confirmation at 94% across two warning cycles"
+    ],
+    "manager": "Farida Contractor",
+    "featured": false,
+    "campaignSlugs": [],
+    "volunteerRoles": ["Warden", "Communications volunteer"]
+  },
+  {
+    "id": "prj-012",
+    "slug": "sanitation-blocks-markets",
+    "title": "Public Sanitation Blocks at Market Yards",
+    "programSlug": "water-sanitation",
+    "category": "Rural infrastructure",
+    "summary": "Six user-charged toilet blocks at district market yards, with published cleaning rotas.",
+    "description": "Each block is built to a common design, operated by a self-help group on a published tariff, and cleaned on a rota that is posted at the entrance with the inspector's signature.",
+    "location": "Gulbarga, Karnataka",
+    "status": "completed",
+    "progress": 100,
+    "startDate": "2024-04-01",
+    "endDate": "2025-12-20",
+    "budgetInr": 1800000,
+    "raisedInr": 1800000,
+    "beneficiaries": 26000,
+    "objectives": [
+      "Build 6 sanitation blocks",
+      "Hand each to a self-help group",
+      "Publish tariffs and cleaning rotas"
+    ],
+    "outcomes": [
+      "All 6 blocks operational",
+      "Average daily usage of 410 people across the six sites"
+    ],
+    "manager": "Meera Raghunathan",
+    "featured": false,
+    "campaignSlugs": [],
+    "volunteerRoles": []
+  }
+]

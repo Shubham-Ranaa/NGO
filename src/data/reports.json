@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rep-001",
+    "year": 2025,
+    "title": "Annual Report 2025",
+    "kind": "annual",
+    "format": "PDF",
+    "pages": 64,
+    "publishedOn": "2026-04-30",
+    "summary": "Full-year programme results, audited financials and governance disclosures for the 2025 reporting year."
+  },
+  {
+    "id": "rep-002",
+    "year": 2025,
+    "title": "Financial Statements 2025",
+    "kind": "financial",
+    "format": "PDF",
+    "pages": 38,
+    "publishedOn": "2026-04-30",
+    "summary": "Statement of income and expenditure, balance sheet, and the independent auditor's report."
+  },
+  {
+    "id": "rep-003",
+    "year": 2025,
+    "title": "Water & Sanitation Programme Review",
+    "kind": "programme",
+    "format": "PDF",
+    "pages": 26,
+    "publishedOn": "2026-03-15",
+    "summary": "Borewell yields, committee fee collection and water quality results across the full portfolio."
+  },
+  {
+    "id": "rep-004",
+    "year": 2025,
+    "title": "Impact Note: Learning Centres",
+    "kind": "impact",
+    "format": "PDF",
+    "pages": 18,
+    "publishedOn": "2025-11-22",
+    "summary": "Two terms of reading-level assessment data from twenty-four centres, including the sites that fell short."
+  },
+  {
+    "id": "rep-005",
+    "year": 2024,
+    "title": "Annual Report 2024",
+    "kind": "annual",
+    "format": "PDF",
+    "pages": 58,
+    "publishedOn": "2025-05-02",
+    "summary": "Programme results and audited financials for 2024, with the first full year of rate-contract procurement."
+  },
+  {
+    "id": "rep-006",
+    "year": 2024,
+    "title": "Financial Statements 2024",
+    "kind": "financial",
+    "format": "PDF",
+    "pages": 36,
+    "publishedOn": "2025-05-02",
+    "summary": "Statement of income and expenditure, balance sheet, and the independent auditor's report."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ist-001",
+    "label": "Active programmes",
+    "value": 6,
+    "note": "Thematic areas currently in delivery"
+  },
+  {
+    "id": "ist-002",
+    "label": "Villages with water committees",
+    "value": 47,
+    "note": "Registered committees with bank accounts"
+  },
+  {
+    "id": "ist-003",
+    "label": "Health camp consultations",
+    "value": 18420,
+    "note": "Since the first mobile unit (2022)"
+  },
+  {
+    "id": "ist-004",
+    "label": "Rupees deployed on-field",
+    "value": 28400000,
+    "note": "FY 2024–26, audited outflow"
+  }
+]

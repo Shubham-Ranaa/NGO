@@ -1,0 +1,74 @@
+[
+  {
+    "id": "faq-001",
+    "category": "Donations",
+    "question": "Is this a real donation page?",
+    "answer": "No. This is a prototype. No payment gateway is connected, no money moves and no receipt is issued. The donation flow demonstrates validation, campaign selection and confirmation screens only."
+  },
+  {
+    "id": "faq-002",
+    "category": "Donations",
+    "question": "Can I choose which project my money goes to?",
+    "answer": "In the demo, yes — every campaign is tied to a project so the attribution can be shown. If this were a live site, unrestricted gifts would be pooled and allocated against the published budget for the programme you select."
+  },
+  {
+    "id": "faq-003",
+    "category": "Donations",
+    "question": "How much of my donation reaches the field?",
+    "answer": "The demo shows a target split that you can change in organisation settings. Nothing here is an audited figure; audited numbers live in the published financial statements."
+  },
+  {
+    "id": "faq-004",
+    "category": "Volunteering",
+    "question": "How long does an application take to be reviewed?",
+    "answer": "The stated service level is ten working days. Applications move through screening, a short call and a role match; you can track the status from your dashboard once your account exists."
+  },
+  {
+    "id": "faq-005",
+    "category": "Volunteering",
+    "question": "Do I need medical or technical experience?",
+    "answer": "Only for roles marked as such. Camp registration, log keeping, reading mentoring and event support are open to anyone who completes the induction session."
+  },
+  {
+    "id": "faq-006",
+    "category": "Volunteering",
+    "question": "Can I volunteer remotely?",
+    "answer": "A small number of roles are remote — data entry, translation and design support. Most roles are field-based because the work happens in the settlements themselves."
+  },
+  {
+    "id": "faq-007",
+    "category": "Programmes",
+    "question": "How do you decide where to work?",
+    "answer": "A settlement is considered where there is an identifiable local partner, a measurable baseline and a realistic path to community ownership of whatever is built. Where any of those are missing, we do not start."
+  },
+  {
+    "id": "faq-008",
+    "category": "Programmes",
+    "question": "Who maintains what you build?",
+    "answer": "Whoever is meant to own it after handover. Borewells go to village water committees with written budgets, sanitation blocks to self-help groups on published tariffs, and library corners to trained student librarians."
+  },
+  {
+    "id": "faq-009",
+    "category": "Transparency",
+    "question": "Are the figures on this site audited?",
+    "answer": "No. Every figure here is demo data for a prototype. The audited statements would appear as downloadable annual and financial reports on the Reports page."
+  },
+  {
+    "id": "faq-010",
+    "category": "Transparency",
+    "question": "What happens to my data if I submit a form?",
+    "answer": "In this prototype, form submissions are not stored on any server. Anything you type stays in your browser tab. Real deployment would need server-side storage with an explicit retention policy."
+  },
+  {
+    "id": "faq-011",
+    "category": "Website",
+    "question": "Why does the site say 'demo data' everywhere?",
+    "answer": "Because it is. The organisation, its people, projects and numbers are fictional. That labelling is deliberate and must stay until a real organisation takes it over."
+  },
+  {
+    "id": "faq-012",
+    "category": "Website",
+    "question": "Why do some pages show a 404?",
+    "answer": "The site is being built page by page. Routes that are scheduled for a later phase are not wired up yet, and they land on a styled 404 that explains what is still outstanding."
+  }
+]

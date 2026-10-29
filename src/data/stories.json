@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sto-001",
+    "slug": "the-committee-that-kept-the-pump-running",
+    "kind": "story",
+    "title": "The committee that kept the pump running",
+    "excerpt": "Eighteen months after handover, the Nandur committee has not missed a single maintenance payment.",
+    "body": "The first meeting ended with nobody willing to take the treasurer's job. Six months later the same committee posts a printed fee schedule at the standpost and photographs it every Monday for the project record. The quarterly maintenance fund now holds enough to replace a pump head without asking anyone outside the village. What changed was not the equipment — it was that every rupee in and out was written down where everyone could see it.",
+    "location": "Nandur, Nashik",
+    "date": "2026-08-14",
+    "projectSlug": "borewell-restoration-nandur"
+  },
+  {
+    "id": "sto-002",
+    "slug": "reading-by-lamplight",
+    "kind": "story",
+    "title": "Reading by lamplight",
+    "excerpt": "A child who entered the centre unable to read a sentence finished the term two levels above where she started.",
+    "body": "She came to the centre in Balrampur at the age of nine, able to recognise letters but not to read a line. The facilitators grouped her with children at the same level rather than her age, and worked through phonics twice a week. Two terms later she read the class notice board aloud to her mother, who asked to be shown how to keep the register too.",
+    "location": "Balrampur, Uttar Pradesh",
+    "date": "2026-06-30",
+    "projectSlug": "after-school-learning-centres"
+  },
+  {
+    "id": "sto-003",
+    "slug": "the-clinic-that-comes-on-tuesday",
+    "kind": "story",
+    "title": "The clinic that comes on Tuesday",
+    "excerpt": "For eight settlements, the fortnightly van is the only place a blood pressure reading is possible.",
+    "body": "The van reaches Gobindpur every other Tuesday at nine. Those who come for hypertension screening are given a card with the reading written on it and the date of the next visit. Where the reading needs follow-up, the camp nurse records the referral in the same log and the following fortnight's visit confirms whether it was completed. The log is the whole system — kept on paper on site so nothing waits for a computer.",
+    "location": "Kalahandi, Odisha",
+    "date": "2026-09-02",
+    "projectSlug": "mobile-health-camps"
+  },
+  {
+    "id": "sto-004",
+    "kind": "testimonial",
+    "title": "Donor, recurring since 2024",
+    "excerpt": "The published budget line I gave to is the same one the quarterly report reconciles against.",
+    "body": "I have given to a lot of organisations that send photographs. This one sent a ledger. The budget line I chose is named in the quarterly report and reconciled against it, which is the only reason I kept giving.",
+    "quote": "They sent a ledger, not just a photograph.",
+    "author": "R. Sundaram",
+    "role": "Recurring donor since 2024",
+    "location": "Chennai",
+    "date": "2026-07-11",
+    "projectSlug": null
+  },
+  {
+    "id": "sto-005",
+    "kind": "testimonial",
+    "title": "Volunteer, reading mentor",
+    "excerpt": "I was paired with a centre within walking distance and given a rubric that told me exactly what to do.",
+    "body": "I had volunteered before and spent most of my first session guessing what to teach. The induction gave me a rubric, a group of children at one level and a placement ten minutes from home.",
+    "quote": "A rubric, a group, and a centre ten minutes from home.",
+    "author": "Aditi Naik",
+    "role": "Reading mentor",
+    "location": "Balrampur",
+    "date": "2026-05-27",
+    "projectSlug": "after-school-learning-centres"
+  },
+  {
+    "id": "sto-006",
+    "kind": "testimonial",
+    "title": "Panchayat partner, Jalore",
+    "excerpt": "Satellite cover data was published whether it flattered us or not.",
+    "body": "We expected a report that made the planting look better than it was. The seasonal cover numbers were published as they came back, including the quarter that was worse than the one before.",
+    "quote": "The bad quarter was published as plainly as the good one.",
+    "author": "Sarpanch H. Devi",
+    "role": "Grama Panchayat partner",
+    "location": "Jalore, Rajasthan",
+    "date": "2026-09-19",
+    "projectSlug": "watershed-treatment-ridge"
+  }
+]

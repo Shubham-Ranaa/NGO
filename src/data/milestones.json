@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ms-001",
+    "year": "2014",
+    "title": "Founded in Pune",
+    "description": "Six people, one room and a single mandate: publish what you spend."
+  },
+  {
+    "id": "ms-002",
+    "year": "2016",
+    "title": "First water programme",
+    "description": "Two settlements in Nashik restored nine borewells with village committees holding the budgets."
+  },
+  {
+    "id": "ms-003",
+    "year": "2018",
+    "title": "Health portfolio opens",
+    "description": "The mobile clinic model begins in Kalahandi after a survey found eight settlements more than 15 km from a PHC."
+  },
+  {
+    "id": "ms-004",
+    "year": "2020",
+    "title": "Learning centres pilot",
+    "description": "Eight after-school centres open during school closures and stay open afterwards."
+  },
+  {
+    "id": "ms-005",
+    "year": "2022",
+    "title": "Published rate contracts",
+    "description": "All material procurement moves onto a public rate contract with quarterly reconciliation."
+  },
+  {
+    "id": "ms-006",
+    "year": "2024",
+    "title": "Sixty libraries and a hundredth project",
+    "description": "The hundredth project completes; the library corner programme reaches sixty schools."
+  },
+  {
+    "id": "ms-007",
+    "year": "2026",
+    "title": "Six programmes, twelve live projects",
+    "description": "Programmes are now run as six portfolios with budgets published per project before fundraising opens."
+  }
+]
